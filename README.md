@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou um Back-End Developer ingressando no mundo da programação!
+    Sou um Full-Stack Developer ingressando no mundo da programação!
   </p>
 </div>
 
