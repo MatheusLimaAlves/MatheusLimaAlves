@@ -7,8 +7,8 @@
 <a href="https://www.linkedin.com/in/dev-matheus-lima/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
-<a href="empmatheuslima@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+<a href="mailto:empmatheuslima@gmail.com">
+<img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 <br/> 
 <a href="https://github.com/MatheusLimaAlves">
