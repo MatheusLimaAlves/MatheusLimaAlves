@@ -1,13 +1,13 @@
 <p align="center">
 <a href="https://github.com/MatheusLimaAlves">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2100&pause=200&multiline=true&width=500&height=80&lines=Matheus Lima;Full-Stack Developer;Git+%7C+Python+%7C+JavaScript+%7C+Html+%7C+CSS"alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2100&pause=200&multiline=true&width=500&height=80&lines=Matheus Lima;Back-End Developer;Python+%7C+Docker+%7C+Node.js+%7C+JavaScript+%7C+MySQL"alt="Typing SVG"/>
 </a>
 <br/>
 </a>  
 <a href="https://www.linkedin.com/in/dev-matheus-lima/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
-<a href="mailto:empmatheuslima@gmail.com">
+<a href="mailto:matheuslalvs@gmail.com">
 <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 <br/> 
