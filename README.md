@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/MatheusLimaAlves">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2100&pause=200&multiline=true&width=500&height=80&lines=Matheus Lima;Back-End Developer;Python+%7C+Docker+%7C+Node.js+%7C+JavaScript+%7C+MySQL"alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2100&pause=200&multiline=true&width=500&height=80&lines=Matheus Lima;Back-End Developer;Python+%7C+Docker+%7C+Node.js+%7C+JavaScript+%7C+PostgreSQL"alt="Typing SVG"/>
 </a>
 <br/>
 </a>  
