@@ -84,7 +84,7 @@ I'm always open to new projects, collaborations, and opportunities!
 
 - 📧 Email: devmatheuslimaalves@outlook.com
 - 💼 LinkedIn: [dev-matheus-lima](https://linkedin.com/in/dev-matheus-lima)
-- 🌐 Portfolio: [Visit here](your-portfolio-link)
+- 🌐 Portfolio: [Visit here](https://portfolio-matheus-lima.vercel.app/)
 - 💻 GitHub: [@MatheusLimaAlves](https://github.com/MatheusLimaAlves)
 
 ---
